@@ -1,4 +1,4 @@
-# coviddata_exploration-and-visualization-using-SQL
+# coviddata_exploration-and-visualization-using-SQL and Tableau
 
 Datasets can be found at : https://ourworldindata.org/covid-deaths
 
@@ -23,8 +23,12 @@ Goal of this project: To showcase my skills related to:
 Finding out the percentage of population that were vaccinated against COVID, daily vaccinations
 the death percentage including total death counts in Europe.
 
-# Tool used
+# Tools used
 
 MySQL
 
+Tableau
+
+Link to dashboard
+https://public.tableau.com/views/coviddatadeathsandvaccinations/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
