@@ -16,9 +16,7 @@ Goal of this project: To showcase my skills related to:
 
 5.Aggregate Functions
 
-6.Creating Views
-
-7.Converting Data Types
+6.Converting Data Types
 
 # Task
 
