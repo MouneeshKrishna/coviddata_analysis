@@ -1,4 +1,4 @@
-# coviddata_exploration-and-visualization-using-SQL-and-Tableau
+# coviddata_exploration-and-visualization-using-SQL
 
 Datasets can be found at : https://ourworldindata.org/covid-deaths
 
@@ -29,4 +29,4 @@ the death percentage including total death counts in Europe.
 
 MySQL
 
-Tableau
+
